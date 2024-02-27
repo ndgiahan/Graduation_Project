@@ -1,0 +1,423 @@
+D:\Web THể\Fahasa\Fahasa\bin\Debug\Fahasa.exe.config
+D:\Web THể\Fahasa\Fahasa\bin\Debug\Fahasa.exe
+D:\Web THể\Fahasa\Fahasa\bin\Debug\Fahasa.pdb
+D:\Web THể\Fahasa\Fahasa\bin\Debug\aa-ER\Fahasa.resources.dll
+D:\Web THể\Fahasa\Fahasa\obj\Debug\G5NguyenDoGiaHan_QLCuaHangSach_Fahasa.csproj.AssemblyReference.cache
+D:\Web THể\Fahasa\Fahasa\obj\Debug\Fahasa.frmLogin.resources
+D:\Web THể\Fahasa\Fahasa\obj\Debug\Fahasa.frmMain.resources
+D:\Web THể\Fahasa\Fahasa\obj\Debug\Fahasa.frmManageGenre.resources
+D:\Web THể\Fahasa\Fahasa\obj\Debug\Fahasa.frmManageInvoice.resources
+D:\Web THể\Fahasa\Fahasa\obj\Debug\Fahasa.frmProduct.resources
+D:\Web THể\Fahasa\Fahasa\obj\Debug\Fahasa.frmManageSupplier.resources
+D:\Web THể\Fahasa\Fahasa\obj\Debug\Fahasa.frmManageGenreType.resources
+D:\Web THể\Fahasa\Fahasa\obj\Debug\Fahasa.Properties.Resources.resources
+D:\Web THể\Fahasa\Fahasa\obj\Debug\Fahasa.frmProduct.aa-ER.resources
+D:\Web THể\Fahasa\Fahasa\obj\Debug\G5NguyenDoGiaHan_QLCuaHangSach_Fahasa.csproj.GenerateResource.cache
+D:\Web THể\Fahasa\Fahasa\obj\Debug\G5NguyenDoGiaHan_QLCuaHangSach_Fahasa.csproj.CoreCompileInputs.cache
+D:\Web THể\Fahasa\Fahasa\obj\Debug\aa-ER\Fahasa.resources.dll
+D:\Web THể\Fahasa\Fahasa\obj\Debug\Fahasa.exe
+D:\Web THể\Fahasa\Fahasa\obj\Debug\Fahasa.pdb
+D:\Web THể\Fahasa\Fahasa\obj\Debug\Fahasa.frmCustomer.resources
+D:\Web THể\Fahasa\Fahasa\obj\Debug\Fahasa.frmOrder.resources
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\Fahasa.exe
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\Fahasa.exe.config
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\EnvDTE.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\stdole.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\obj\Debug\G5NguyenDoGiaHan_QLCuaHangSach_Fahasa.csproj.AssemblyReference.cache
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\obj\Debug\Fahasa.frmBranch.resources
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\obj\Debug\Fahasa.frmConfirmOrder.resources
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\obj\Debug\Fahasa.frmEmployee.resources
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\obj\Debug\Fahasa.frmAuthor.resources
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\obj\Debug\Fahasa.frmBrand.resources
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\obj\Debug\Fahasa.frmInventory.resources
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\obj\Debug\Fahasa.frmLogin.resources
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\obj\Debug\Fahasa.frmMain.resources
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\obj\Debug\Fahasa.frmCustomer.resources
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\obj\Debug\Fahasa.frmGenre.resources
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\obj\Debug\Fahasa.frmInvoice.resources
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\obj\Debug\Fahasa.frmOrder.resources
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\obj\Debug\Fahasa.frmOrderDetail.resources
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\obj\Debug\Fahasa.frmOrigin.resources
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\obj\Debug\Fahasa.frmPrice.resources
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\obj\Debug\Fahasa.frmProduct.resources
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\obj\Debug\Fahasa.frmProductGroup.resources
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\obj\Debug\Fahasa.frmPublisher.resources
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\obj\Debug\Fahasa.frmSupplier.resources
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\obj\Debug\Fahasa.frmGenreType.resources
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\obj\Debug\Fahasa.Properties.Resources.resources
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\obj\Debug\Fahasa.frmProduct.aa-ER.resources
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\obj\Debug\G5NguyenDoGiaHan_QLCuaHangSach_Fahasa.csproj.GenerateResource.cache
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\obj\Debug\G5NguyenDoGiaHan_QLCuaHangSach_Fahasa.csproj.CoreCompileInputs.cache
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\obj\Debug\aa-ER\Fahasa.resources.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\obj\Debug\G5NguyenDoGiaHan_QLCuaHangSach_Fahasa.csproj.CopyComplete
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\obj\Debug\Fahasa.exe
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\obj\Debug\Fahasa.pdb
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\Fahasa.pdb
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\bin\Debug\aa-ER\Fahasa.resources.dll
+D:\5_2021010142NguyenDoGiaHan_K20.KLTN\Fahasa\Fahasa\obj\Debug\Fahasa.rpBill.resources
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\Fahasa.exe.config
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\Fahasa.exe
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\Fahasa.pdb
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\aa-ER\Fahasa.resources.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\EnvDTE.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\stdole.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\obj\Debug\G5NguyenDoGiaHan_QLCuaHangSach_Fahasa.csproj.AssemblyReference.cache
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\obj\Debug\Fahasa.frmBranch.resources
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\obj\Debug\Fahasa.frmConfirmOrder.resources
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\obj\Debug\Fahasa.frmEmployee.resources
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\obj\Debug\Fahasa.frmAuthor.resources
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\obj\Debug\Fahasa.frmBrand.resources
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\obj\Debug\Fahasa.frmInventory.resources
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\obj\Debug\Fahasa.frmLogin.resources
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\obj\Debug\Fahasa.frmMain.resources
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\obj\Debug\Fahasa.frmCustomer.resources
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\obj\Debug\Fahasa.frmGenre.resources
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\obj\Debug\Fahasa.frmInvoice.resources
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\obj\Debug\Fahasa.frmOrder.resources
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\obj\Debug\Fahasa.frmOrderDetail.resources
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\obj\Debug\Fahasa.frmOrigin.resources
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\obj\Debug\Fahasa.frmPrice.resources
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\obj\Debug\Fahasa.frmProduct.resources
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\obj\Debug\Fahasa.frmProductGroup.resources
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\obj\Debug\Fahasa.frmPublisher.resources
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\obj\Debug\Fahasa.frmSupplier.resources
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\obj\Debug\Fahasa.frmGenreType.resources
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\obj\Debug\Fahasa.Properties.Resources.resources
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\obj\Debug\Fahasa.rpBill.resources
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\obj\Debug\Fahasa.frmProduct.aa-ER.resources
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\obj\Debug\G5NguyenDoGiaHan_QLCuaHangSach_Fahasa.csproj.GenerateResource.cache
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\obj\Debug\G5NguyenDoGiaHan_QLCuaHangSach_Fahasa.csproj.CoreCompileInputs.cache
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\obj\Debug\aa-ER\Fahasa.resources.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\obj\Debug\G5NguyenDoGiaHan_QLCuaHangSach_Fahasa.csproj.CopyComplete
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\obj\Debug\Fahasa.exe
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\obj\Debug\Fahasa.pdb
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\System.Buffers.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\System.Memory.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\System.Text.Json.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\System.ValueTuple.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\System.Buffers.xml
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\System.Memory.xml
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\System.Text.Json.xml
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\System.ValueTuple.xml
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\phann\OneDrive\Máy tính\Fahasa\Fahasa\Fahasa\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\Fahasa.exe.config
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\Fahasa.exe
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\Fahasa.pdb
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\aa-ER\Fahasa.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\System.Buffers.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\System.Memory.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\System.Text.Json.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\System.ValueTuple.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\EnvDTE.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\stdole.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\System.Buffers.xml
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\System.Memory.xml
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\System.Text.Json.xml
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\System.ValueTuple.xml
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\obj\Debug\G5NguyenDoGiaHan_QLCuaHangSach_Fahasa.csproj.AssemblyReference.cache
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\obj\Debug\Fahasa.frmBranch.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\obj\Debug\Fahasa.frmConfirmOrder.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\obj\Debug\Fahasa.frmEmployee.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\obj\Debug\Fahasa.frmAuthor.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\obj\Debug\Fahasa.frmBrand.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\obj\Debug\Fahasa.frmInventory.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\obj\Debug\Fahasa.frmMain.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\obj\Debug\Fahasa.frmCustomer.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\obj\Debug\Fahasa.frmGenre.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\obj\Debug\Fahasa.frmOrder.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\obj\Debug\Fahasa.frmOrderDetail.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\obj\Debug\Fahasa.frmOrigin.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\obj\Debug\Fahasa.frmPrice.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\obj\Debug\Fahasa.frmProduct.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\obj\Debug\Fahasa.frmPublisher.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\obj\Debug\Fahasa.frmSupplier.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\obj\Debug\Fahasa.frmGenreType.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\obj\Debug\Fahasa.Properties.Resources.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\obj\Debug\Fahasa.rpBill.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\obj\Debug\Fahasa.frmProduct.aa-ER.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\obj\Debug\G5NguyenDoGiaHan_QLCuaHangSach_Fahasa.csproj.GenerateResource.cache
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\obj\Debug\G5NguyenDoGiaHan_QLCuaHangSach_Fahasa.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\obj\Debug\aa-ER\Fahasa.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\obj\Debug\G5NguyenDoGiaHan_QLCuaHangSach_Fahasa.csproj.CopyComplete
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\obj\Debug\Fahasa.exe
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\obj\Debug\Fahasa.pdb
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\obj\Debug\Fahasa.frmInformation.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\Fahasa\obj\Debug\Fahasa.rpInvoice.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\Fahasa.exe.config
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\Fahasa.exe
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\Fahasa.pdb
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\aa-ER\Fahasa.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Buffers.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Memory.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Text.Json.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.ValueTuple.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\EnvDTE.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\stdole.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Buffers.xml
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Memory.xml
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Text.Json.xml
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.ValueTuple.xml
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\G5NguyenDoGiaHan_QLCuaHangSach_Fahasa.csproj.AssemblyReference.cache
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmBranch.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmConfirmOrder.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmEmployee.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmAuthor.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmBrand.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmInformation.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmInventory.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmMain.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmCustomer.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmGenre.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmOrder.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmOrderDetail.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmOrigin.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmPrice.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmProduct.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmPublisher.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmSupplier.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmGenreType.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.Properties.Resources.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.rpBill.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.rpInvoice.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmProduct.aa-ER.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\G5NguyenDoGiaHan_QLCuaHangSach_Fahasa.csproj.GenerateResource.cache
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\G5NguyenDoGiaHan_QLCuaHangSach_Fahasa.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\aa-ER\Fahasa.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\G5NguyenDoGiaHan_QLCuaHangSach_Fahasa.csproj.CopyComplete
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.exe
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.pdb

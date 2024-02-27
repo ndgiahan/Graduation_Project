@@ -1,0 +1,1 @@
+{"Username":"thuymt","Name":"Mai Thanh Th\u00FAy","BranchId":1,"BranchName":"Nh\u00E0 s\u00E1ch Fahasa qu\u1EADn 7","PositionId":3,"PositionName":"Qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng"}

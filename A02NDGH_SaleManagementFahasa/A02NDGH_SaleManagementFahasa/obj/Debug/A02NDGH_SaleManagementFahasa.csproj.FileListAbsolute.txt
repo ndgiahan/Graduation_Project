@@ -1,0 +1,308 @@
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\Fahasa.exe.config
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\Fahasa.exe
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\Fahasa.pdb
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\aa-ER\Fahasa.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Buffers.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Memory.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Text.Json.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.ValueTuple.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\EnvDTE.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\stdole.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Buffers.xml
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Memory.xml
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Text.Json.xml
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.ValueTuple.xml
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\A02NDGH_SaleManagementFahasa.csproj.AssemblyReference.cache
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmBranch.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmConfirmOrder.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmEmployee.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmBrand.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmInformation.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmInventory.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmMain.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmCustomer.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmGenre.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmOrder.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmOrderDetail.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmPrice.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmProduct.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmPublisher.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmSupplier.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmGenreType.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.Properties.Resources.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.rpBill.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.rpInvoice.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmProduct.aa-ER.resources
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\A02NDGH_SaleManagementFahasa.csproj.GenerateResource.cache
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\A02NDGH_SaleManagementFahasa.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\aa-ER\Fahasa.resources.dll
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\A02NDGH_SaleManagementFahasa.csproj.CopyComplete
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.exe
+C:\Users\nguye\Downloads\Fahasa\Fahasa\Fahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.pdb
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\Fahasa.exe.config
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\Fahasa.exe
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\Fahasa.pdb
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\aa-ER\Fahasa.resources.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Buffers.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Memory.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Text.Json.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.ValueTuple.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\EnvDTE.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\stdole.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Buffers.xml
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Memory.xml
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Text.Json.xml
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.ValueTuple.xml
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\A02NDGH_SaleManagementFahasa.csproj.AssemblyReference.cache
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmBranch.resources
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmConfirmOrder.resources
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmEmployee.resources
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmBrand.resources
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmInformation.resources
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmInventory.resources
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmMain.resources
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmCustomer.resources
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmGenre.resources
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmOrder.resources
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmOrderDetail.resources
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmPrice.resources
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmProduct.resources
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmPublisher.resources
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmSupplier.resources
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmGenreType.resources
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.Properties.Resources.resources
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.rpBill.resources
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.rpInvoice.resources
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmProduct.aa-ER.resources
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\A02NDGH_SaleManagementFahasa.csproj.GenerateResource.cache
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\A02NDGH_SaleManagementFahasa.csproj.CoreCompileInputs.cache
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\aa-ER\Fahasa.resources.dll
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\A02NDGH_SaleManagementFahasa.csproj.CopyComplete
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.exe
+C:\Users\phann\OneDrive\Máy tính\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.pdb
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\Fahasa.exe.config
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\Fahasa.exe
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\Fahasa.pdb
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\aa-ER\Fahasa.resources.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Buffers.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Memory.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Text.Json.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.ValueTuple.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\EnvDTE.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\stdole.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Buffers.xml
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Memory.xml
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Text.Json.xml
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\System.ValueTuple.xml
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\A02NDGH_SaleManagementFahasa.csproj.AssemblyReference.cache
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmBranch.resources
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmConfirmOrder.resources
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmEmployee.resources
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmBrand.resources
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmInformation.resources
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmInventory.resources
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmMain.resources
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmCustomer.resources
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmGenre.resources
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmOrder.resources
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmOrderDetail.resources
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmPrice.resources
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmProduct.resources
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmPublisher.resources
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmSupplier.resources
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmGenreType.resources
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.Properties.Resources.resources
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.rpBill.resources
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.rpInvoice.resources
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmProduct.aa-ER.resources
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\A02NDGH_SaleManagementFahasa.csproj.GenerateResource.cache
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\A02NDGH_SaleManagementFahasa.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\aa-ER\Fahasa.resources.dll
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\A02NDGH_SaleManagementFahasa.csproj.CopyComplete
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.exe
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.pdb
+C:\Users\nguye\Downloads\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\A02NDGH_SaleManagementFahasa\obj\Debug\Fahasa.frmInvoice.resources
